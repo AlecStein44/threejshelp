@@ -1,0 +1,85 @@
+#container {
+	display: flex;
+	flex-direction: column;
+
+}
+
+#topCon {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.inputCon {
+	display: flex;
+	flex-direction: column;
+	margin-left: 20px;
+	margin-top: 14px;
+}
+
+#canvasCon {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border: 1px solid grey;
+	height: 800px;
+	margin-top: 0px;
+}
+
+#imageCon {
+	height: 600;
+	width: 1000
+}
+
+#image {
+	max-width: 100%;
+}
+
+
+#divRight {
+	height: 600px;
+	width: 1000px;
+}
+
+#options {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+.shapeButton {
+	width: 100px;
+	text-align: center;
+	margin-top: 10px;
+	background-color: #17dcd3;
+	font-family: Source Sans Pro;
+	font-size: 20px;
+	border-radius: 6px;
+	border-width: 0px;
+	color: white;
+	padding: 20px;
+}
+
+#inputText {
+	font-family: Source Sans Pro;
+	font-size: 20px;
+}
+
+#addToCart {
+	width: 140px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #17dcd3;
+	font-family: Source Sans Pro;
+	font-size: 20px;
+	border-radius: 6px;
+	border-width: 0px;
+	color: white;
+	padding: 20px;
+}
+
+.site-header-row-container-inner {
+	background-color: #353535;
+}
